@@ -151,6 +151,14 @@
     "format": "png"
   }]
 }, {
+  "name": "arena-z-mainnet",
+  "icons": [{
+    "url": "ipfs://QmPRGaSPsmbDwRgQUCJSfkEErrfXxHbpUhQSvvDTLgJ25R",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "apechain",
   "icons": [{
     "url": "ipfs://QmTqiPnYZx6ZyPPbtsuh8VvvoH6DSCJGjTUgtTN9X8NScP",
@@ -2151,6 +2159,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "moonriver",
+  "icons": [{
+    "url": "ipfs://QmcyP14ZLD6m6j7rYUgty9uuk9e82kUMTQDdqi2dKmZqjz",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "grokicon",
   "icons": [{
     "url": "ipfs://bafkreicepw6yqtmubtpcthecjx47ndwgywartfqnkdhf66k3q57h2hlewm",
@@ -2359,6 +2375,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mezo",
+  "icons": [{
+    "url": "ipfs://bafkreibnc5le6iw6qqhrmhxbpxdlr6ub7wtpr5tga5sfgnowsv2ygac5fa",
+    "width": 1200,
+    "height": 1200,
+    "format": "png"
+  }]
+}, {
   "name": "mantle",
   "icons": [{
     "url": "ipfs://QmYddHh5zdceSsBU7uGfQvEHg6UUtAFbzQBBaePS4whx7o",
@@ -2532,6 +2556,14 @@
     "url": "ipfs://QmcpyTj4hUyHJZ2VmSdkXFpPpRcNKRP1VxMs7Cp1anymNy",
     "width": 504,
     "height": 495,
+    "format": "png"
+  }]
+}, {
+  "name": "moonbasealpha",
+  "icons": [{
+    "url": "ipfs://QmVydzWtkyatFgi8zTVR7X6g8SpeHANwKNceRm4nKFoF6o",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
@@ -3359,6 +3391,14 @@
     "format": "png"
   }]
 }, {
+  "name": "davinci",
+  "icons": [{
+    "url": "ipfs://bafybeid7ggekwk5knwlxsesk4zomwrtg2mmcfwfqjtywghvljfbmukn2yu",
+    "width": 408,
+    "height": 353,
+    "format": "svg"
+  }]
+}, {
   "name": "mvm",
   "icons": [{
     "url": "ipfs://QmeuDgSprukzfV7fi9XYHYcfmT4aZZZU7idgShtRS8Vf6V",
@@ -3951,6 +3991,14 @@
     "format": "png"
   }]
 }, {
+  "name": "moonbeam",
+  "icons": [{
+    "url": "ipfs://QmNR7kbBew61cVxbwBf8EWCiYbUCqVhoJDLL6u3rQy9FrZ",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "taoevmIcon",
   "icons": [{
     "url": "ipfs://QmS78hUX5zqYDqoFgyVmtWpCcx7bZW86Nhw5Nqt2GJrLh2",
@@ -4020,6 +4068,14 @@
     "url": "ipfs://QmWAa7JayD8HCtAMXezzUNcUoi2Rikqpu2WmrHpFBmDEez",
     "width": 480,
     "height": 480,
+    "format": "png"
+  }]
+}, {
+  "name": "matr1x",
+  "icons": [{
+    "url": "ipfs://QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2wt",
+    "width": 1000,
+    "height": 1628,
     "format": "png"
   }]
 }, {
@@ -4161,7 +4217,7 @@
 }, {
   "name": "odysseyChain",
   "icons": [{
-    "url": "ipfs://QmYvyYRizsD8cGrPYDt2Qia797YuZA72AkJhePSFwEoSKL",
+    "url": "ipfs://bafkreiabuopswwczdqb7kbncgdpqzatpxyyx3qg4oixikalj47oluyrjmu",
     "width": 512,
     "height": 512,
     "format": "png"
@@ -4356,6 +4412,14 @@
     "url": "ipfs://QmQurJBRScSDar6oDJ4pAeKKvzHr49KJfS1iuCkbtiNe4x",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "warden",
+  "icons": [{
+    "url": "ipfs://Qmdz49xumH5yHb9jXKLR69Liv4STJQq5xW1g9xCQ9vJ3fB",
+    "width": 228,
+    "height": 228,
     "format": "png"
   }]
 }, {
@@ -4831,6 +4895,14 @@
     "format": "png"
   }]
 }, {
+  "name": "betherance",
+  "icons": [{
+    "url": "ipfs://QmQnf8Fp3xVimXszkCt7EfKWjUzGWK9HBq9EQ8xXbm1APH",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "changchain",
   "icons": [{
     "url": "ipfs://QmbEytMCh2xFr7q87HjthX4K2MKmjfHih2mqS42tqTZoMy",
@@ -4860,6 +4932,14 @@
     "url": "ipfs://QmNMuNBwg9opKvsnrDaoYBP743LeddeooQupVYjpBXf7d7",
     "width": 400,
     "height": 400,
+    "format": "png"
+  }]
+}, {
+  "name": "bionix",
+  "icons": [{
+    "url": "ipfs://QmNVegdThJHrdcJxYTrmgccARTDTz9DkhxLffDCvDMp4an",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -5215,6 +5295,14 @@
     "format": "png"
   }]
 }, {
+  "name": "pio",
+  "icons": [{
+    "url": "ipfs://QmXcFM3JqPvvxHe1i8fTQkCFGWDGHjcZmWe2u6epUhyftt",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "axelium",
   "icons": [{
     "url": "ipfs://QmNx8FRacfNeawhkjk5p57EKzDHkLGMaBBmK2VRL5CB2P2",
@@ -5377,7 +5465,7 @@
 }, {
   "name": "karak",
   "icons": [{
-    "url": "ipfs://QmbCwbV2eNWxb8qCop5PzP9PB15YZzcHbj8D7BixLso4xJ",
+    "url": "ipfs://bafybeic3dihuytvtm2hnfo7lvsqf43eqbzobtkxn3o3pxptktifsefy7su",
     "width": 256,
     "height": 256,
     "format": "png"
@@ -5540,6 +5628,14 @@
     "url": "ipfs://Qma6cGPCDcJPFxy5KQaMBrLtuVQiqeLncXVybcBoQuhai5",
     "width": 128,
     "height": 128,
+    "format": "png"
+  }]
+}, {
+  "name": "prom",
+  "icons": [{
+    "url": "ipfs://QmWK2y5qCZgb6uCR7RrsEgTK1ci5rCSxmCWYtt5yJwpoE1",
+    "width": 224,
+    "height": 224,
     "format": "png"
   }]
 }, {
@@ -6327,6 +6423,14 @@
     "format": "png"
   }]
 }, {
+  "name": "superseed",
+  "icons": [{
+    "url": "ipfs://QmVa1MhJhixPzFfvhggQWg8hLtS77vg7QFvQtQGrXbVYSg",
+    "width": 1200,
+    "height": 1200,
+    "format": "png"
+  }]
+}, {
   "name": "deepl",
   "icons": [{
     "url": "ipfs://bafybeihjwgy4qja5cee452malk5hpb25pzpipfaka7hjcyb437ldodxzaq",
@@ -6545,10 +6649,10 @@
 }, {
   "name": "odyssey",
   "icons": [{
-    "url": "ipfs://QmVt5Y585JqBSrkpZmYaEnX9FW7tDwfDLmUGNyDdyV2Pd2",
-    "width": 48,
-    "height": 48,
-    "format": "svg"
+    "url": "ipfs://bafkreiabuopswwczdqb7kbncgdpqzatpxyyx3qg4oixikalj47oluyrjmu",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "SUR",
@@ -6980,6 +7084,14 @@
     "url": "ipfs://QmQBuGUPQ4f7zREjdviV4itwJB6gCbYEMvfaiWqFMweTPm",
     "width": 128,
     "height": 128,
+    "format": "png"
+  }]
+}, {
+  "name": "omni",
+  "icons": [{
+    "url": "ipfs://QmdCMVucuZJpMqSn3xSWCU3io5ftRAwtzAqTd8QXLQEaos",
+    "width": 1000,
+    "height": 1000,
     "format": "png"
   }]
 }, {
